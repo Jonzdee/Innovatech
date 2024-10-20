@@ -4,25 +4,25 @@ const features = [
   {
     name: 'Push to deploy',
     description:
-      'Morbi viverra dui mi arcu sed. Tellus semper adipiscing suspendisse semper morbi. Odio urna massa nunc massa.',
+      'With our straightforward push-to-deploy functionality, you can easily get your updates live. Morbi viverra dui mi arcu sed, allowing for seamless integration and fast iterations.',
     icon: CloudArrowUpIcon,
   },
   {
     name: 'SSL certificates',
     description:
-      'Sit quis amet rutrum tellus ullamcorper ultricies libero dolor eget. Sem sodales gravida quam turpis enim lacus amet.',
+      'Security is paramount. Our service provides SSL certificates to keep your application secure and trustworthy. ',
     icon: LockClosedIcon,
   },
   {
     name: 'Simple queues',
     description:
-      'Quisque est vel vulputate cursus. Risus proin diam nunc commodo. Lobortis auctor congue commodo diam neque.',
+      'Manage your tasks with ease. Ensuring that your operations run smoothly. Making your workflow efficient.',
     icon: ArrowPathIcon,
   },
   {
     name: 'Advanced security',
     description:
-      'Arcu egestas dolor vel iaculis in ipsum mauris. Tincidunt mattis aliquet hac quis. Id hac maecenas ac donec pharetra eget.',
+      'Protect your application with our advanced security measures. Enabling you to focus on what truly matters: your app’s success.',
     icon: FingerPrintIcon,
   },
 ]

@@ -23,7 +23,7 @@ export default function Example() {
               <span className="sr-only">Your Company</span>
               <img
                 alt=""
-                src="./../../public/innovatech.jpg"
+                src="https://instagram.flos1-2.fna.fbcdn.net/v/t51.2885-19/463420720_2648675445334369_8784043359605087917_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.flos1-2.fna.fbcdn.net&_nc_cat=101&_nc_ohc=9U0EkTGu7sIQ7kNvgF1UqCe&_nc_gid=ac7ce3607e4346379589e0191c5d27a7&edm=AP4sbd4BAAAA&ccb=7-5&oh=00_AYDTKBbXAZfwyIMGsLuO0gKqmOEFXdvywalw3OKnAzHnuw&oe=671B2761&_nc_sid=7a9f4b"
                 className="h-8 w-auto"
               />
             </a>
@@ -127,8 +127,9 @@ export default function Example() {
               Data to enrich your online business
             </h1>
             <p className="mt-6 text-lg leading-8 text-gray-600">
-              Anim aute id magna aliqua ad ad non deserunt sunt. Qui irure qui lorem cupidatat commodo. Elit sunt amet
-              fugiat veniam occaecat fugiat aliqua.
+            In today’s digital age, data has become one of the most powerful tools to drive the success of any online business.
+             By leveraging data analytics, you can gain valuable insights into customer behavior, optimize marketing strategies, and make informed decisions that propel your business forward. 
+            
             </p>
             <div className="mt-10 flex items-center justify-center gap-x-6">
               <a

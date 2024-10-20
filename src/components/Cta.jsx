@@ -23,7 +23,8 @@ export default function Example() {
                 Start using our app today.
               </h2>
               <p className="mt-6 text-lg leading-8 text-gray-300">
-                Ac euismod vel sit maecenas id pellentesque eu sed consectetur. Malesuada adipiscing sagittis vel nulla.
+              In a fast-paced world, staying productive is key to achieving your goals and staying ahead. Our app is designed to help you
+               streamline your tasks, manage your time more effectively, and focus on what truly matters.
               </p>
               <div className="mt-10 flex items-center justify-center gap-x-6 lg:justify-start">
                 <a

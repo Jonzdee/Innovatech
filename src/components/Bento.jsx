@@ -15,7 +15,7 @@ export default function Example() {
                     Mobile friendly
                   </p>
                   <p className="mt-2 max-w-lg text-sm/6 text-gray-600 max-lg:text-center">
-                    Anim aute id magna aliqua ad ad non deserunt sunt. Qui irure qui lorem cupidatat commodo.
+                  Animation is designed to be highly efficient and user-friendly on mobile devices. It ensures that users can easily navigate and interact with the content, enhancing their overall experience.
                   </p>
                 </div>
                 <div className="relative min-h-[30rem] w-full grow [container-type:inline-size] max-lg:mx-auto max-lg:max-w-sm">
@@ -38,7 +38,7 @@ export default function Example() {
                     Performance
                   </p>
                   <p className="mt-2 max-w-lg text-sm/6 text-gray-600 max-lg:text-center">
-                    Lorem ipsum, dolor sit amet consectetur adipisicing elit maiores impedit.
+                  Performance is crucial, and it significantly impacts user satisfaction. Ensuring your application runs smoothly and efficiently is vital for success.
                   </p>
                 </div>
                 <div className="flex flex-1 items-center justify-center px-8 max-lg:pb-12 max-lg:pt-10 sm:px-10 lg:pb-2">
@@ -57,7 +57,7 @@ export default function Example() {
                 <div className="px-8 pt-8 sm:px-10 sm:pt-10">
                   <p className="mt-2 text-lg/7 font-medium tracking-tight text-gray-950 max-lg:text-center">Security</p>
                   <p className="mt-2 max-w-lg text-sm/6 text-gray-600 max-lg:text-center">
-                    Morbi viverra dui mi arcu sed. Tellus semper adipiscing suspendisse semper morbi.
+                  The flow of life is often at its best when things are well organized. Continuous learning and adaptation are essential for maintaining security.
                   </p>
                 </div>
                 <div className="flex flex-1 items-center [container-type:inline-size] max-lg:py-6 lg:pb-2">
@@ -78,7 +78,7 @@ export default function Example() {
                     Powerful APIs
                   </p>
                   <p className="mt-2 max-w-lg text-sm/6 text-gray-600 max-lg:text-center">
-                    Sit quis amet rutrum tellus ullamcorper ultricies libero dolor eget sem sodales gravida.
+                  If you want to use the versatile capabilities of a powerful API, it is important to have a good understanding of its features. 
                   </p>
                 </div>
                 <div className="relative min-h-[30rem] w-full grow">
