@@ -1,15 +1,15 @@
 const people = [
     {
-      name: 'Leslie Alexander',
+      name: 'Johnson Olayemi',
       role: 'Co-Founder / CEO',
       imageUrl:
-        './../../public/mepix.jpg',
+        'https://scontent.flos1-1.fna.fbcdn.net/v/t39.30808-1/439255106_1240491676931637_5561760095675072915_n.jpg?stp=c8.0.614.614a_dst-jpg_s200x200&_nc_cat=103&ccb=1-7&_nc_sid=50d2ac&_nc_eui2=AeHFpbqdHuf6JfVufYbrGOg66xRodjS4BfLrFGh2NLgF8h5V0xWQCOzhjAAmuV8q83QxQjQ76O9LE_Z_F5rOzlBJ&_nc_ohc=pXLINa7MTQMQ7kNvgFDMwcX&_nc_zt=24&_nc_ht=scontent.flos1-1.fna&_nc_gid=Ar7j_EF-TnKMSe-6naSZM8S&oh=00_AYBr6pPojLI2SRrx4k0-_Dt0EE9_hicqq-9IFK1L8P-1TA&oe=671AF81E',
     },
     {
-        name: 'Leslie Alexander',
+        name: 'Elemma Cynthia',
         role: 'CEO',
         imageUrl:
-          './../../public/cnyt.jpg',
+          './../assets/cnyt.jpg',
       },
       
     // More people...
